@@ -1,0 +1,35 @@
+🔥 Starting Model Test for All Levels (Saving output to logs/model_test_log.txt  )
+🔥 Running Model Test Level 1 - Attempt 1
+===========Game is started at 2025-03-16 15:28:46.352886===========
+2025-03-16 15:28:47.172 python[56531:4219338] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 15:28:47.172 python[56531:4219338] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       0
+===========All process is terminated at 2025-03-16 15:28:49.242854===========
+🔥 Running Model Test Level 2 - Attempt 1
+===========Game is started at 2025-03-16 15:28:49.554538===========
+2025-03-16 15:28:50.416 python[56568:4219620] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 15:28:50.416 python[56568:4219620] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P            11                       0
+===========All process is terminated at 2025-03-16 15:28:52.340039===========
+🔥 Running Model Test Level 3 - Attempt 1
+===========Game is started at 2025-03-16 15:28:52.624605===========
+  player  brick_remain  count_of_catching_ball
+0     1P            25                       0
+===========All process is terminated at 2025-03-16 15:28:54.747823===========
+🔥 Running Model Test Level 4 - Attempt 1
+===========Game is started at 2025-03-16 15:28:55.002319===========
+Process 1P:
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/runpy.py", line 197, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/runpy.py", line 87, in _run_code
+    exec(code, run_globals)
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/__main__.py", line 71, in <module>
+    game_executor.run()
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 213, in run
+    time.sleep(1)
+KeyboardInterrupt
+  player  brick_remain  count_of_catching_ball
+0     1P            31                       0

@@ -1,0 +1,106 @@
+🔥 Starting AI Test for All Levels (Saving output to logs/test_log.txt    )
+🔥 Running Test Level 10 - Attempt 1
+===========Game is started at 2025-03-16 00:48:09.876081===========
+2025-03-16 00:48:10.821 python[73610:1963628] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:48:10.821 python[73610:1963628] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+===========All process is terminated at 2025-03-16 00:48:21.700919===========
+🔥 Running Test Level 11 - Attempt 1
+===========Game is started at 2025-03-16 00:48:21.977783===========
+2025-03-16 00:48:22.823 python[73647:1964019] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:48:22.824 python[73647:1964019] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+===========All process is terminated at 2025-03-16 00:48:30.092653===========
+🔥 Running Test Level 12 - Attempt 1
+===========Game is started at 2025-03-16 00:48:30.364396===========
+2025-03-16 00:48:31.193 python[73681:1964325] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:48:31.193 python[73681:1964325] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+===========All process is terminated at 2025-03-16 00:48:38.309678===========
+🔥 Running Test Level 13 - Attempt 1
+===========Game is started at 2025-03-16 00:48:38.584316===========
+2025-03-16 00:48:39.444 python[73715:1964630] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:48:39.444 python[73715:1964630] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+===========All process is terminated at 2025-03-16 00:48:45.432786===========
+🔥 Running Test Level 14 - Attempt 1
+===========Game is started at 2025-03-16 00:48:45.709770===========
+2025-03-16 00:48:46.534 python[73749:1964914] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:48:46.534 python[73749:1964914] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+===========All process is terminated at 2025-03-16 00:49:05.035565===========
+🔥 Running Test Level 15 - Attempt 1
+===========Game is started at 2025-03-16 00:49:05.326084===========
+2025-03-16 00:49:06.165 python[73784:1965395] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:06.165 python[73784:1965395] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      45
+===========All process is terminated at 2025-03-16 00:49:16.332182===========
+🔥 Running Test Level 16 - Attempt 1
+===========Game is started at 2025-03-16 00:49:16.620097===========
+2025-03-16 00:49:17.439 python[73818:1965727] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:17.439 python[73818:1965727] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+===========All process is terminated at 2025-03-16 00:49:26.401521===========
+🔥 Running Test Level 17 - Attempt 1
+===========Game is started at 2025-03-16 00:49:26.682839===========
+2025-03-16 00:49:27.524 python[73852:1966047] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:27.524 python[73852:1966047] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+===========All process is terminated at 2025-03-16 00:49:35.484760===========
+🔥 Running Test Level 18 - Attempt 1
+===========Game is started at 2025-03-16 00:49:35.774457===========
+2025-03-16 00:49:36.609 python[73886:1966349] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:36.609 python[73886:1966349] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P            17                       1
+===========All process is terminated at 2025-03-16 00:49:38.329662===========
+🔥 Running Test Level 19 - Attempt 1
+===========Game is started at 2025-03-16 00:49:38.600513===========
+2025-03-16 00:49:39.437 python[73920:1966566] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:39.439 python[73920:1966566] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+===========All process is terminated at 2025-03-16 00:49:40.713546===========
+🔥 Running Test Level 20 - Attempt 1
+===========Game is started at 2025-03-16 00:49:40.997437===========
+2025-03-16 00:49:41.839 python[73952:1966762] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:41.839 python[73952:1966762] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P            10                       3
+===========All process is terminated at 2025-03-16 00:49:43.292776===========
+🔥 Running Test Level 21 - Attempt 1
+===========Game is started at 2025-03-16 00:49:43.571977===========
+2025-03-16 00:49:44.406 python[73986:1966935] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:44.406 python[73986:1966935] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+===========All process is terminated at 2025-03-16 00:49:50.274118===========
+🔥 Running Test Level 22 - Attempt 1
+===========Game is started at 2025-03-16 00:49:50.546077===========
+2025-03-16 00:49:51.373 python[74020:1967181] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:49:51.373 python[74020:1967181] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+===========All process is terminated at 2025-03-16 00:50:03.218628===========
+🔥 Running Test Level 23 - Attempt 1
+===========Game is started at 2025-03-16 00:50:03.484979===========
+2025-03-16 00:50:04.309 python[74055:1967497] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:50:04.309 python[74055:1967497] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+===========All process is terminated at 2025-03-16 00:50:14.939947===========
+🔥 Running Test Level 24 - Attempt 1
+===========Game is started at 2025-03-16 00:50:15.225284===========
+2025-03-16 00:50:16.077 python[74089:1967818] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-16 00:50:16.077 python[74089:1967818] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+===========All process is terminated at 2025-03-16 00:50:17.642037===========

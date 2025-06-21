@@ -1,0 +1,3805 @@
+🔥 Starting Training for All Levels (Saving output to logs/train_log.txt  )
+🔥 Running Training Level 1 - Attempt 1
+===========Game is started at 2025-03-18 02:07:20.458498===========
+2025-03-18 02:07:21.317 python[90961:6850592] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-18 02:07:21.317 python[90961:6850592] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x10456e040>', 'The process <src.game.Arkanoid object at 0x10456e040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+The client '1P' delayed 1 frame at frame(574)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+The client '1P' delayed 1 frame at frame(387)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+The client '1P' delayed 1 frame at frame(71)
+The client '1P' delayed 2 frame at frame(546)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+The client '1P' delayed 1 frame at frame(359)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+The client '1P' delayed 1 frame at frame(89)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      54
+The client '1P' delayed 1 frame at frame(84)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+The client '1P' delayed 1 frame at frame(61)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       2
+The client '1P' delayed 1 frame at frame(225)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(211)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+The client '1P' delayed 1 frame at frame(367)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+The client '1P' delayed 1 frame at frame(754)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+The client '1P' delayed 1 frame at frame(119)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(104)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(296)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+The client '1P' delayed 1 frame at frame(201)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       3
+The client '1P' delayed 1 frame at frame(81)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+===========All process is terminated at 2025-03-18 02:13:06.693297===========
+🔥 Running Training Level 2 - Attempt 1
+===========Game is started at 2025-03-18 02:13:07.038889===========
+2025-03-18 02:20:12.662 python[91061:6860805] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-18 02:20:12.663 python[91061:6860805] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x102f2e040>', 'The process <src.game.Arkanoid object at 0x102f2e040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+The client '1P' delayed 1 frame at frame(24)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+The client '1P' delayed 1 frame at frame(86)
+The client '1P' delayed 2 frame at frame(3342)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      56
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(634)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(663)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(251)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(22)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+The client '1P' delayed 1 frame at frame(335)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+The client '1P' delayed 1 frame at frame(354)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      56
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(260)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+The client '1P' delayed 1 frame at frame(727)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(369)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+The client '1P' delayed 1 frame at frame(78)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+The client '1P' delayed 2 frame at frame(2)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       4
+The client '1P' delayed 1 frame at frame(656)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+The client '1P' delayed 1 frame at frame(670)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+The client '1P' delayed 1 frame at frame(568)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+The client '1P' delayed 1 frame at frame(17)
+The client '1P' delayed 2 frame at frame(173)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+The client '1P' delayed 1 frame at frame(87)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+===========All process is terminated at 2025-03-18 02:20:13.981453===========
+🔥 Running Training Level 3 - Attempt 1
+===========Game is started at 2025-03-18 02:20:14.341152===========
+2025-03-18 02:20:15.242 python[91143:6884020] +[IMKClient subclass]: chose IMKClient_Modern
+2025-03-18 02:20:15.242 python[91143:6884020] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x102d8a040>', 'The process <src.game.Arkanoid object at 0x102d8a040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(4)
+  player  brick_remain  count_of_catching_ball
+0     1P             5                      63
+The client '1P' delayed 1 frame at frame(1440)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(860)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(1006)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(107)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 2 frame at frame(1531)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1230)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(304)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+The client '1P' delayed 1 frame at frame(5)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(53)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1407)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(1398)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(375)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+The client '1P' delayed 1 frame at frame(446)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+The client '1P' delayed 4 frame at frame(791)
+  player  brick_remain  count_of_catching_ball
+0     1P            12                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(268)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      69
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+The client '1P' delayed 1 frame at frame(288)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(2020)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(209)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(638)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+The client '1P' delayed 1 frame at frame(982)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(815)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+The client '1P' delayed 1 frame at frame(1984)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(1474)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+The client '1P' delayed 1 frame at frame(1722)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1403)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+===========All process is terminated at 2025-03-18 02:35:52.454195===========
+🔥 Running Training Level 4 - Attempt 1
+===========Game is started at 2025-03-18 02:35:52.801681===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x10448e040>', 'The process <src.game.Arkanoid object at 0x10448e040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(114)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1315)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(821)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      61
+The client '1P' delayed 1 frame at frame(387)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1907)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(1356)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(1054)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(552)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(1175)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(338)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 4 frame at frame(2171)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1638)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(867)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1612)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(1145)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(262)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(553)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(46)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+The client '1P' delayed 1 frame at frame(348)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(1181)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(2158)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(813)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(2165)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(2062)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(145)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+The client '1P' delayed 1 frame at frame(819)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      61
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(596)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(837)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+===========All process is terminated at 2025-03-18 02:58:20.001845===========
+🔥 Running Training Level 5 - Attempt 1
+===========Game is started at 2025-03-18 02:58:20.343826===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x100972040>', 'The process <src.game.Arkanoid object at 0x100972040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(3326)
+The client '1P' delayed 2 frame at frame(3329)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(132)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+The client '1P' delayed 1 frame at frame(981)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(998)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(1353)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(868)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(883)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(547)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(309)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(334)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(2710)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(1715)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+The client '1P' delayed 1 frame at frame(1937)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      37
+The client '1P' delayed 1 frame at frame(734)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 4 frame at frame(2881)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(2578)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(1055)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+The client '1P' delayed 1 frame at frame(3710)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      80
+The client '1P' delayed 1 frame at frame(2022)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(2545)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(3992)
+The client '1P' delayed 2 frame at frame(3996)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(1147)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(3486)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(1556)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 1 frame at frame(1976)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(1029)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+The client '1P' delayed 1 frame at frame(3983)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(373)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(4269)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(332)
+The client '1P' delayed 2 frame at frame(335)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(747)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      65
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      65
+===========All process is terminated at 2025-03-18 03:24:35.375872===========
+🔥 Running Training Level 6 - Attempt 1
+===========Game is started at 2025-03-18 03:24:35.716888===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x102e16040>', 'The process <src.game.Arkanoid object at 0x102e16040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(1766)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(2042)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(1905)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(365)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+The client '1P' delayed 1 frame at frame(1076)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+The client '1P' delayed 1 frame at frame(358)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(688)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(657)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(847)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 4 frame at frame(793)
+  player  brick_remain  count_of_catching_ball
+0     1P             5                      10
+The client '1P' delayed 1 frame at frame(363)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(1552)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(103)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+The client '1P' delayed 1 frame at frame(1488)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+===========All process is terminated at 2025-03-18 03:37:58.961760===========
+🔥 Running Training Level 7 - Attempt 1
+===========Game is started at 2025-03-18 03:37:59.292817===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x1051fa040>', 'The process <src.game.Arkanoid object at 0x1051fa040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(109)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(265)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      68
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(1705)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(4522)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(355)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+The client '1P' delayed 1 frame at frame(974)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(2802)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(713)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      61
+The client '1P' delayed 4 frame at frame(793)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(238)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(228)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(611)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(950)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(698)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+The client '1P' delayed 1 frame at frame(4910)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      87
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+===========All process is terminated at 2025-03-18 03:57:19.645319===========
+🔥 Running Training Level 8 - Attempt 1
+===========Game is started at 2025-03-18 03:57:19.978253===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x100c02040>', 'The process <src.game.Arkanoid object at 0x100c02040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(2769)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(501)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(2922)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 1 frame at frame(1459)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      80
+The client '1P' delayed 1 frame at frame(719)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      45
+The client '1P' delayed 1 frame at frame(860)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(1103)
+  player  brick_remain  count_of_catching_ball
+0     1P             3                      85
+The client '1P' delayed 4 frame at frame(779)
+  player  brick_remain  count_of_catching_ball
+0     1P            31                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(777)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      80
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(573)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(598)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(1189)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(1246)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      80
+The client '1P' delayed 1 frame at frame(127)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      71
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(897)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(102)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      37
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(100)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      37
+The client '1P' delayed 1 frame at frame(2837)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+===========All process is terminated at 2025-03-18 04:25:45.872655===========
+🔥 Running Training Level 9 - Attempt 1
+===========Game is started at 2025-03-18 04:25:46.214001===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x1049c6040>', 'The process <src.game.Arkanoid object at 0x1049c6040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(34)
+The client '1P' delayed 2 frame at frame(37)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+The client '1P' delayed 1 frame at frame(382)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+The client '1P' delayed 1 frame at frame(1389)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+The client '1P' delayed 1 frame at frame(1697)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+The client '1P' delayed 1 frame at frame(3127)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+The client '1P' delayed 1 frame at frame(1519)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(2029)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(165)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+The client '1P' delayed 1 frame at frame(1431)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 4 frame at frame(779)
+  player  brick_remain  count_of_catching_ball
+0     1P            32                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+The client '1P' delayed 1 frame at frame(939)
+  player  brick_remain  count_of_catching_ball
+0     1P            11                      68
+The client '1P' delayed 1 frame at frame(1698)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(1240)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      84
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+The client '1P' delayed 1 frame at frame(2814)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(1251)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+The client '1P' delayed 1 frame at frame(1893)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(1686)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+The client '1P' delayed 1 frame at frame(1921)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(2450)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+The client '1P' delayed 1 frame at frame(2030)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+The client '1P' delayed 1 frame at frame(2504)
+The client '1P' delayed 2 frame at frame(2508)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(1759)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      53
+The client '1P' delayed 1 frame at frame(768)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+The client '1P' delayed 1 frame at frame(2227)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+===========All process is terminated at 2025-03-18 04:51:50.354748===========
+🔥 Running Training Level 10 - Attempt 1
+===========Game is started at 2025-03-18 04:51:50.687500===========
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(1492)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+The client '1P' delayed 1 frame at frame(105)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P            38                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            38                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+The client '1P' delayed 1 frame at frame(1110)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      70
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+The client '1P' delayed 1 frame at frame(301)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+The client '1P' delayed 1 frame at frame(684)
+  player  brick_remain  count_of_catching_ball
+0     1P             5                      57
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(2390)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P            38                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+The client '1P' delayed 1 frame at frame(476)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+The client '1P' delayed 1 frame at frame(45)
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+The client '1P' delayed 1 frame at frame(17)
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            38                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+The client '1P' delayed 1 frame at frame(35)
+The client '1P' delayed 4 frame at frame(786)
+  player  brick_remain  count_of_catching_ball
+0     1P             8                      12
+The client '1P' delayed 1 frame at frame(370)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P            38                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(544)
+The client '1P' delayed 2 frame at frame(550)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      59
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+The client '1P' delayed 1 frame at frame(2527)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x1010a2040>', 'The process <src.game.Arkanoid object at 0x1010a2040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            35                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+The client '1P' delayed 1 frame at frame(950)
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(136)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      16
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+The client '1P' delayed 1 frame at frame(3592)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P            38                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            42                       0
+The client '1P' delayed 1 frame at frame(1349)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            40                       3
+===========All process is terminated at 2025-03-18 05:08:56.572289===========
+🔥 Running Training Level 11 - Attempt 1
+===========Game is started at 2025-03-18 05:08:56.916168===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x1005da040>', 'The process <src.game.Arkanoid object at 0x1005da040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(836)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      59
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+The client '1P' delayed 1 frame at frame(2237)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      59
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(715)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(459)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(182)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(2809)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 4 frame at frame(2178)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(456)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      53
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(66)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(2814)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      72
+The client '1P' delayed 1 frame at frame(4576)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      53
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(1036)
+  player  brick_remain  count_of_catching_ball
+0     1P             3                      75
+The client '1P' delayed 1 frame at frame(2412)
+The client '1P' delayed 2 frame at frame(2415)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      85
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+The client '1P' delayed 1 frame at frame(2294)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      37
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(1172)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(289)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      77
+The client '1P' delayed 1 frame at frame(1267)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(1209)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      53
+The client '1P' delayed 1 frame at frame(868)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      59
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      53
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(1468)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+The client '1P' delayed 1 frame at frame(993)
+  player  brick_remain  count_of_catching_ball
+0     1P             3                      75
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+===========All process is terminated at 2025-03-18 05:36:45.530234===========
+🔥 Running Training Level 12 - Attempt 1
+===========Game is started at 2025-03-18 05:36:45.864509===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x102802040>', 'The process <src.game.Arkanoid object at 0x102802040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(1395)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(1019)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(1269)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      65
+The client '1P' delayed 1 frame at frame(598)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(4186)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      49
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(948)
+The client '1P' delayed 4 frame at frame(1475)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      18
+The client '1P' delayed 1 frame at frame(1436)
+The client '1P' delayed 2 frame at frame(1439)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(1612)
+  player  brick_remain  count_of_catching_ball
+0     1P             7                      66
+The client '1P' delayed 1 frame at frame(764)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+The client '1P' delayed 1 frame at frame(484)
+  player  brick_remain  count_of_catching_ball
+0     1P            12                      59
+The client '1P' delayed 1 frame at frame(1023)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(543)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(686)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(3283)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(1294)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      65
+The client '1P' delayed 1 frame at frame(602)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+===========All process is terminated at 2025-03-18 05:57:42.670446===========
+🔥 Running Training Level 13 - Attempt 1
+===========Game is started at 2025-03-18 05:57:43.044626===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x100bbe040>', 'The process <src.game.Arkanoid object at 0x100bbe040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+The client '1P' delayed 1 frame at frame(2981)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      77
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+The client '1P' delayed 1 frame at frame(2122)
+  player  brick_remain  count_of_catching_ball
+0     1P             4                      69
+The client '1P' delayed 1 frame at frame(924)
+The client '1P' delayed 4 frame at frame(1482)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(92)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+The client '1P' delayed 1 frame at frame(84)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(2145)
+  player  brick_remain  count_of_catching_ball
+0     1P             4                      65
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(3129)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(1303)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(1707)
+  player  brick_remain  count_of_catching_ball
+0     1P             4                      65
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(512)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(1691)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+The client '1P' delayed 1 frame at frame(919)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(1618)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+The client '1P' delayed 1 frame at frame(978)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(739)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+===========All process is terminated at 2025-03-18 06:22:32.820831===========
+🔥 Running Training Level 14 - Attempt 1
+===========Game is started at 2025-03-18 06:22:33.156529===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x1010c2040>', 'The process <src.game.Arkanoid object at 0x1010c2040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(8)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(1437)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(1341)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+The client '1P' delayed 1 frame at frame(1453)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(343)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(606)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(1096)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(465)
+The client '1P' delayed 4 frame at frame(4955)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+The client '1P' delayed 1 frame at frame(583)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      67
+The client '1P' delayed 1 frame at frame(454)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      64
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+The client '1P' delayed 1 frame at frame(1673)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(544)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      61
+The client '1P' delayed 1 frame at frame(555)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+===========All process is terminated at 2025-03-18 06:39:15.929037===========
+🔥 Running Training Level 15 - Attempt 1
+===========Game is started at 2025-03-18 06:39:16.267330===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x102a12040>', 'The process <src.game.Arkanoid object at 0x102a12040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(1562)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(2718)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      43
+The client '1P' delayed 1 frame at frame(2024)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      56
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      52
+The client '1P' delayed 1 frame at frame(1630)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(548)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 1 frame at frame(1011)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      61
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      52
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      52
+The client '1P' delayed 3 frame at frame(2184)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      66
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      61
+The client '1P' delayed 1 frame at frame(292)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(463)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(93)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(1785)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(1393)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(341)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+The client '1P' delayed 1 frame at frame(963)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(2303)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      46
+The client '1P' delayed 1 frame at frame(578)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 1 frame at frame(1200)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(3283)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      61
+The client '1P' delayed 1 frame at frame(3616)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      55
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(1193)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      37
+The client '1P' delayed 1 frame at frame(1617)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(3178)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      55
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      52
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+===========All process is terminated at 2025-03-18 07:09:22.354919===========
+🔥 Running Training Level 16 - Attempt 1
+===========Game is started at 2025-03-18 07:09:22.689801===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x105312040>', 'The process <src.game.Arkanoid object at 0x105312040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(3182)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(1969)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(489)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+The client '1P' delayed 1 frame at frame(2499)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(830)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+The client '1P' delayed 1 frame at frame(1466)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      43
+The client '1P' delayed 1 frame at frame(1306)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+The client '1P' delayed 4 frame at frame(2872)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(2238)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                     105
+The client '1P' delayed 1 frame at frame(2799)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(656)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      66
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+The client '1P' delayed 1 frame at frame(3214)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(1848)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+The client '1P' delayed 1 frame at frame(2760)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(2506)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      91
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(2927)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+The client '1P' delayed 1 frame at frame(1864)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(2666)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+The client '1P' delayed 1 frame at frame(2531)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+The client '1P' delayed 1 frame at frame(3265)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      43
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+The client '1P' delayed 1 frame at frame(2736)
+  player  brick_remain  count_of_catching_ball
+0     1P             3                      93
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+===========All process is terminated at 2025-03-18 07:38:45.384956===========
+🔥 Running Training Level 17 - Attempt 1
+===========Game is started at 2025-03-18 07:38:45.718838===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x100e92040>', 'The process <src.game.Arkanoid object at 0x100e92040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(1606)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(2678)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+The client '1P' delayed 1 frame at frame(4346)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+The client '1P' delayed 1 frame at frame(1619)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      56
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 4 frame at frame(3568)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      56
+The client '1P' delayed 1 frame at frame(1471)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(34)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      82
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+The client '1P' delayed 1 frame at frame(2198)
+The client '1P' delayed 2 frame at frame(2201)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(1593)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      56
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      56
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(2540)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      58
+The client '1P' delayed 1 frame at frame(65)
+  player  brick_remain  count_of_catching_ball
+0     1P             6                      70
+The client '1P' delayed 1 frame at frame(150)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      76
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+The client '1P' delayed 1 frame at frame(1042)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      46
+The client '1P' delayed 1 frame at frame(1547)
+  player  brick_remain  count_of_catching_ball
+0     1P             3                      80
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(568)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      46
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      56
+The client '1P' delayed 1 frame at frame(1228)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(480)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(1353)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+The client '1P' delayed 1 frame at frame(1352)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(398)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(1268)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      33
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(1692)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+===========All process is terminated at 2025-03-18 08:10:54.093293===========
+🔥 Running Training Level 18 - Attempt 1
+===========Game is started at 2025-03-18 08:10:54.425828===========
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+The client '1P' delayed 1 frame at frame(296)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+The client '1P' delayed 1 frame at frame(1077)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+The client '1P' delayed 1 frame at frame(694)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+The client '1P' delayed 1 frame at frame(2156)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+The client '1P' delayed 1 frame at frame(707)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            16                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            17                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+The client '1P' delayed 1 frame at frame(269)
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P            17                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            17                       2
+The client '1P' delayed 1 frame at frame(1082)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(196)
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            16                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P            17                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+The client '1P' delayed 1 frame at frame(948)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x10260a040>', 'The process <src.game.Arkanoid object at 0x10260a040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+The client '1P' delayed 1 frame at frame(145)
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+The client '1P' delayed 1 frame at frame(585)
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            16                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            17                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            16                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            16                       4
+  player  brick_remain  count_of_catching_ball
+0     1P            21                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P            17                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            14                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       4
+===========All process is terminated at 2025-03-18 08:22:20.047591===========
+🔥 Running Training Level 19 - Attempt 1
+===========Game is started at 2025-03-18 08:22:20.385646===========
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+The client '1P' delayed 1 frame at frame(1165)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+The client '1P' delayed 1 frame at frame(1059)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      57
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+The client '1P' delayed 1 frame at frame(1052)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+The client '1P' delayed 1 frame at frame(129)
+  player  brick_remain  count_of_catching_ball
+0     1P             4                      53
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+The client '1P' delayed 1 frame at frame(450)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+The client '1P' delayed 1 frame at frame(760)
+  player  brick_remain  count_of_catching_ball
+0     1P             3                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+The client '1P' delayed 1 frame at frame(724)
+The client '1P' delayed 4 frame at frame(6352)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      57
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x104dfe040>', 'The process <src.game.Arkanoid object at 0x104dfe040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      10
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      14
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       0
+  player  brick_remain  count_of_catching_ball
+0     1P             2                       5
+===========All process is terminated at 2025-03-18 08:33:55.713699===========
+🔥 Running Training Level 20 - Attempt 1
+===========Game is started at 2025-03-18 08:33:56.054376===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x1044c6040>', 'The process <src.game.Arkanoid object at 0x1044c6040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+The client '1P' delayed 1 frame at frame(1071)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      13
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+The client '1P' delayed 1 frame at frame(384)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+The client '1P' delayed 1 frame at frame(1610)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      58
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      17
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             7                       3
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(277)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       8
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+  player  brick_remain  count_of_catching_ball
+0     1P             4                       4
+The client '1P' delayed 1 frame at frame(221)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+The client '1P' delayed 1 frame at frame(62)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      53
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      20
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             6                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       6
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             1                       7
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+===========All process is terminated at 2025-03-18 08:44:42.370859===========
+🔥 Running Training Level 21 - Attempt 1
+===========Game is started at 2025-03-18 08:44:42.663037===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x102596040>', 'The process <src.game.Arkanoid object at 0x102596040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(205)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      18
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      46
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 1 frame at frame(2836)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      77
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+The client '1P' delayed 4 frame at frame(2176)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      32
+The client '1P' delayed 1 frame at frame(2343)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(1081)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      25
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      46
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(255)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(171)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      19
+The client '1P' delayed 1 frame at frame(3622)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      77
+The client '1P' delayed 1 frame at frame(2104)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+The client '1P' delayed 1 frame at frame(2950)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      43
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      46
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 1 frame at frame(1237)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+The client '1P' delayed 1 frame at frame(1788)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      46
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(817)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      26
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+The client '1P' delayed 1 frame at frame(1004)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(320)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+The client '1P' delayed 1 frame at frame(798)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      23
+The client '1P' delayed 1 frame at frame(210)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      15
+The client '1P' delayed 1 frame at frame(760)
+The client '1P' delayed 2 frame at frame(764)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(93)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+===========All process is terminated at 2025-03-18 09:11:01.824802===========
+🔥 Running Training Level 22 - Attempt 1
+===========Game is started at 2025-03-18 09:11:02.175331===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x10099e040>', 'The process <src.game.Arkanoid object at 0x10099e040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(2392)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      35
+The client '1P' delayed 1 frame at frame(2159)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+The client '1P' delayed 1 frame at frame(2837)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      94
+The client '1P' delayed 1 frame at frame(264)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(1892)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      41
+The client '1P' delayed 1 frame at frame(164)
+  player  brick_remain  count_of_catching_ball
+0     1P            72                      11
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      65
+The client '1P' delayed 1 frame at frame(6)
+  player  brick_remain  count_of_catching_ball
+0     1P            24                      62
+The client '1P' delayed 3 frame at frame(4263)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      66
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      60
+The client '1P' delayed 1 frame at frame(4048)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+The client '1P' delayed 1 frame at frame(1437)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      40
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      60
+The client '1P' delayed 1 frame at frame(3959)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+The client '1P' delayed 1 frame at frame(3155)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(44)
+  player  brick_remain  count_of_catching_ball
+0     1P            13                      85
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      65
+The client '1P' delayed 1 frame at frame(4242)
+  player  brick_remain  count_of_catching_ball
+0     1P             1                      99
+The client '1P' delayed 1 frame at frame(637)
+  player  brick_remain  count_of_catching_ball
+0     1P             7                      75
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(2206)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      28
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(3418)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(1848)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      22
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+The client '1P' delayed 1 frame at frame(1377)
+  player  brick_remain  count_of_catching_ball
+0     1P            24                      67
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      45
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      45
+The client '1P' delayed 1 frame at frame(207)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+The client '1P' delayed 1 frame at frame(650)
+  player  brick_remain  count_of_catching_ball
+0     1P             7                      75
+The client '1P' delayed 1 frame at frame(1147)
+  player  brick_remain  count_of_catching_ball
+0     1P             6                      77
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      65
+The client '1P' delayed 1 frame at frame(2034)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+The client '1P' delayed 1 frame at frame(2588)
+  player  brick_remain  count_of_catching_ball
+0     1P            33                      69
+The client '1P' delayed 1 frame at frame(1095)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                       9
+The client '1P' delayed 1 frame at frame(3875)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+The client '1P' delayed 1 frame at frame(598)
+  player  brick_remain  count_of_catching_ball
+0     1P             8                      81
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      53
+The client '1P' delayed 1 frame at frame(5234)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(1521)
+  player  brick_remain  count_of_catching_ball
+0     1P            31                      77
+The client '1P' delayed 1 frame at frame(131)
+  player  brick_remain  count_of_catching_ball
+0     1P             7                      75
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      54
+The client '1P' delayed 1 frame at frame(2195)
+  player  brick_remain  count_of_catching_ball
+0     1P            34                      77
+The client '1P' delayed 1 frame at frame(976)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      30
+===========All process is terminated at 2025-03-18 09:57:24.561662===========
+🔥 Running Training Level 23 - Attempt 1
+===========Game is started at 2025-03-18 09:57:24.895996===========
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x1003d2040>', 'The process <src.game.Arkanoid object at 0x1003d2040> exit because all ml processes has exited.')
+The client '1P' delayed 1 frame at frame(1646)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+The client '1P' delayed 1 frame at frame(1553)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      37
+The client '1P' delayed 1 frame at frame(1257)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(1782)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      29
+The client '1P' delayed 1 frame at frame(3909)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      77
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+The client '1P' delayed 1 frame at frame(4205)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      77
+The client '1P' delayed 4 frame at frame(779)
+  player  brick_remain  count_of_catching_ball
+0     1P            23                      12
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(1282)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      38
+The client '1P' delayed 1 frame at frame(766)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+The client '1P' delayed 1 frame at frame(874)
+  player  brick_remain  count_of_catching_ball
+0     1P             4                      70
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(1024)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      37
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      47
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(1263)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      24
+The client '1P' delayed 1 frame at frame(453)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+The client '1P' delayed 1 frame at frame(2474)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      43
+The client '1P' delayed 1 frame at frame(3323)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+The client '1P' delayed 1 frame at frame(1008)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+The client '1P' delayed 1 frame at frame(927)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      36
+The client '1P' delayed 1 frame at frame(2009)
+  player  brick_remain  count_of_catching_ball
+0     1P             7                      77
+The client '1P' delayed 1 frame at frame(61)
+  player  brick_remain  count_of_catching_ball
+0     1P            55                       1
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      50
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+The client '1P' delayed 1 frame at frame(2336)
+  player  brick_remain  count_of_catching_ball
+0     1P             4                      67
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      39
+The client '1P' delayed 1 frame at frame(4714)
+  player  brick_remain  count_of_catching_ball
+0     1P             2                      77
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+The client '1P' delayed 1 frame at frame(3811)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      49
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      42
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      34
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      44
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      21
+The client '1P' delayed 1 frame at frame(408)
+The client '1P' delayed 2 frame at frame(411)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      43
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      31
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      48
+The client '1P' delayed 1 frame at frame(1869)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      51
+===========All process is terminated at 2025-03-18 10:33:32.730057===========
+🔥 Running Training Level 24 - Attempt 1
+===========Game is started at 2025-03-18 10:33:33.069855===========
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+The client '1P' delayed 2 frame at frame(1833)
+  player  brick_remain  count_of_catching_ball
+0     1P             5                      24
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+The client '1P' delayed 1 frame at frame(59)
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+The client '1P' delayed 1 frame at frame(495)
+  player  brick_remain  count_of_catching_ball
+0     1P            58                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+The client '1P' delayed 1 frame at frame(87)
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+The client '1P' delayed 1 frame at frame(47)
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+The client '1P' delayed 1 frame at frame(2338)
+  player  brick_remain  count_of_catching_ball
+0     1P             9                      19
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+The client '1P' delayed 1 frame at frame(289)
+  player  brick_remain  count_of_catching_ball
+0     1P            25                       7
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            73                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+The client '1P' delayed 1 frame at frame(199)
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+The client '1P' delayed 1 frame at frame(1053)
+  player  brick_remain  count_of_catching_ball
+0     1P            14                      12
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+The client '1P' delayed 1 frame at frame(694)
+  player  brick_remain  count_of_catching_ball
+0     1P            58                       6
+Some errors happened in game process.
+Traceback (most recent call last):
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 177, in run
+    cmd_dict = self._make_ml_execute(
+  File "/Users/joeko/.pyenv/versions/3.9.5/lib/python3.9/site-packages/mlgame/core/executor.py", line 326, in _make_ml_execute
+    raise error
+mlgame.core.exceptions.MLProcessError: ('<src.game.Arkanoid object at 0x100c76040>', 'The process <src.game.Arkanoid object at 0x100c76040> exit because all ml processes has exited.')
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+The client '1P' delayed 1 frame at frame(842)
+  player  brick_remain  count_of_catching_ball
+0     1P            14                      12
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            64                       6
+The client '1P' delayed 1 frame at frame(769)
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+The client '1P' delayed 1 frame at frame(3128)
+  player  brick_remain  count_of_catching_ball
+0     1P             0                      27
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            87                       0
+  player  brick_remain  count_of_catching_ball
+0     1P            78                       2
+  player  brick_remain  count_of_catching_ball
+0     1P            27                       5
+  player  brick_remain  count_of_catching_ball
+0     1P            80                       1
+  player  brick_remain  count_of_catching_ball
+0     1P            94                       3
+===========All process is terminated at 2025-03-18 10:43:18.436442===========
